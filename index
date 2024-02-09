@@ -1,0 +1,29 @@
+  <div class="row">
+            <div class="col-lg-4 d-flex">
+                <img src="download.jpg" alt="" style="width: 40px; height: 40px;">
+                <div class="text">
+                    <p>Call Us :</p>
+                    <p style="margin-top: -20px;">(+800)345678</p>
+                </div>
+            </div>
+            <div class="col-lg-4 logo">
+                <img src="logo.jpg" alt="" >
+            </div>
+            <div class="col-lg-4 d-flex user">
+                <div class="myAccount d-flex">
+                    <i class="fa-regular fa-user m-1"></i>
+                    <p>My Account</p>
+                </div>
+                <div class="cart d-flex">
+                    <i class="fa-solid fa-cart-plus m-1"></i>
+                    <p>Cart</p>
+                </div>
+                <div class="wishlist d-flex">
+                    <i class="fa-regular fa-heart m-1"></i>
+                    <p>wishlist</p>
+                </div>
+                <div class="search">
+                    <i class="fa-solid fa-magnifying-glass mb-3"></i>
+                </div>
+            </div>
+        </div>
